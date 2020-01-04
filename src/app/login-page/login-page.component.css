@@ -1,0 +1,16 @@
+
+.form-padding{
+    padding:20px;
+    width:100%;
+}
+.hero{
+    background-image: url("/assets/images/food1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+ 
+}
+.transparent-background{
+    background-color: rgba(0, 100, 0, 0.075);
+}

@@ -1,0 +1,28 @@
+nav{
+    width:100vw;
+    background-color:#fff;
+     /* position:fixed;  */
+}
+.logo-img{
+    width:70px;
+    height:70px;
+}
+ul.right-nav{
+    display:flex;
+    flex-direction: row;
+    width:auto;
+    float:left;
+  
+}
+/* ul.right-nav li{
+    margin:10px;
+    } */
+ul.right-nav li a.nav-link{
+    color:green;
+    padding:10px 20px 10px 20px;
+    font-size:15px;
+} 
+ul.right-nav li a.nav-link:hover{
+    color:#fff;
+    
+} 
